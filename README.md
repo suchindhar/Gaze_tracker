@@ -10,13 +10,6 @@
 <img src="https://img.shields.io/badge/NumPy-Latest-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-OS%20Automation-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-<br>
-
-<img src="https://img.shields.io/github/stars/suchindhar/Gaze_tracker?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/github/forks/suchindhar/Gaze_tracker?style=for-the-badge&logo=github&color=32CD32&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/github/last-commit/suchindhar/Gaze_tracker?style=for-the-badge&color=blue&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/github/repo-size/suchindhar/Gaze_tracker?style=for-the-badge&color=orange&labelColor=1a1a1a"/>
-
 </div>
 
 <br>
