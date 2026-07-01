@@ -35,9 +35,9 @@
 
 ## 🚀 Overview
 
-**NeuroTrack** is an AI-powered computer vision system that estimates a user's cognitive attention level in real time — using nothing more than a standard webcam.
+**NeuroTrack** is an AI-powered computer vision system that estimates a user's cognitive attention level in real time using nothing more than a standard webcam.
 
-Instead of relying on expensive dedicated eye-tracking hardware, NeuroTrack fuses facial landmarks, gaze estimation, head pose analysis, and blink detection into a single, smooth **Attention Score (0–100)**. When focus drops below a configurable threshold, it can trigger intelligent desktop automation — like pausing your media automatically.
+Instead of relying on expensive dedicated eye-tracking hardware, NeuroTrack fuses facial landmarks, gaze estimation, head pose analysis, and blink detection into a single, smooth **Attention Score (0–100)**. When focus drops below a configurable threshold, it can trigger intelligent desktop automation like pausing your media automatically.
 
 Built with a modular, object-oriented architecture so it's easy to extend with new attention metrics, ML models, or productivity integrations.
 
