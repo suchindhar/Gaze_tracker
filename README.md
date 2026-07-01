@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9D4EDD&height=220&section=header&text=NeuroTrack&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20Cognitive%20State%20%26%20Attention%20Analyzer&descAlignY=55&descAlign=50&descColor=e0e0e0" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%80+AI-Powered+Gaze+Tracking;%F0%9F%A7%AD+Head+Pose+Estimation;%E2%9A%A1+Fatigue+%26+Blink+Detection;%F0%9F%93%8A+Real-Time+Attention+Scoring;%F0%9F%96%A5%EF%B8%8F+Intelligent+OS+Automation" alt="Typing SVG" />
 
 <br>
@@ -81,16 +79,6 @@ Auto media pause/play on distraction
 </td>
 </tr>
 </table>
-
----
-
-## 🖥️ Preview
-
-<div align="center">
-<img src="assests/hud_mockup.png" width="480" alt="NeuroTrack HUD Preview"/>
-
-<sub>Live HUD overlay — no demo video yet, but a GIF/clip is on the way. ⭐ Star the repo to get notified.</sub>
-</div>
 
 ---
 
